@@ -41,41 +41,319 @@ Assessment
 
 Grades on the course will be based on the following marking scheme:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance at and active participation in seminars | 20% |
-| Assessed speaking assignments | 10% |
-| Assessed writing assignments | 30% |
-| Practical Project | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance at and active participation in seminars
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assessed speaking assignments
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assessed writing assignments
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Practical Project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Class Calendar and Overview
 ---------------------------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction: Why Be A Science Communicator? |
-| 2 | In the Elevator or the Hallway: Talking Informally About Science |
-| 3 | Workshop: Talking Science |
-| 4 | Workshop: Talking Science (contd) |
-| 5 | What Does It Mean to Write About Science for the Public? |
-| 6 |  {{< br >}}{{< br >}} Rivers of Ice: Vanishing Glaciers in the Greater Himalaya {{< br >}}{{< br >}} Guest speaker: David Breashears, director of Glacierworks {{< br >}}{{< br >}}  |
-| 7 | Telling a Tale, Painting a Picture: Writing About Science Using Special Techniques |
-| 8 | Workshop: Writing Science |
-| 9 | Workshop: Writing Science (contd) |
-| 10 | Exhibiting "Unfinished" Science |
-| 11 | Critiquing Science on Display (reviews of exhibits) |
-| 12 | Put Me Through to Washington: Communicating Science to Policymakers |
-| 13 | Workshop: Projects |
-| 14 | Guest Speaker: David Goldston |
-| 15 | Science in the Blogosphere |
-| 16 |  {{< br >}}{{< br >}} Seeing is Believing: Visualizing Science for Communication {{< br >}}{{< br >}} Guest Speaker: Jonathan Corum, science graphics editor at the New York Times {{< br >}}{{< br >}}  |
-| 17 | Workshop: Projects |
-| 18 | From Cancer Cells to String Theory: Communicating Complex Material |
-| 19 | Workshop: Projects |
-| 20 | Communicating Controversy |
-| 21 | On the Record: Communicating to the Media |
-| 22 | Workshop: Projects |
-| 23 | On the Witness Stand: Communicating Science in the Courtroom |
-| 24 | Workshop: Projects |
-| 25 | Final Projects |
-| 26 | Final Projects
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Why Be A Science Communicator?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+In the Elevator or the Hallway: Talking Informally About Science
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Talking Science
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Talking Science (contd)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+What Does It Mean to Write About Science for the Public?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rivers of Ice: Vanishing Glaciers in the Greater Himalaya
+
+Guest speaker: David Breashears, director of Glacierworks
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Telling a Tale, Painting a Picture: Writing About Science Using Special Techniques
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Writing Science
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Writing Science (contd)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Exhibiting "Unfinished" Science
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Critiquing Science on Display (reviews of exhibits)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Put Me Through to Washington: Communicating Science to Policymakers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Speaker: David Goldston
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Science in the Blogosphere
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Seeing is Believing: Visualizing Science for Communication
+
+Guest Speaker: Jonathan Corum, science graphics editor at the New York Times
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+From Cancer Cells to String Theory: Communicating Complex Material
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Communicating Controversy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+On the Record: Communicating to the Media
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+On the Witness Stand: Communicating Science in the Courtroom
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Final Projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final Projects
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
