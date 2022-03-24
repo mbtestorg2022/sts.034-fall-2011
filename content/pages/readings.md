@@ -133,7 +133,7 @@ What Does It Mean to Write About Science for the Public?
 {{< tdopen >}}
 
 
-Watson, J. D., and F. H. C. Crick. "A Structure for Deoxyribose Nucleic Acid." _Nature_ 171 (1953): 737–8. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
+Watson, J. D., and F. H. C. Crick. "A Structure for Deoxyribose Nucleic Acid." _Nature_ 171 (1953): 737–8. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
 
 Watson, James D. _The Double Helix: A Personal Account of the Discovery of the Structure of DNA_. Littlehampton Book Services Ltd, 1968, pp. 7–20 and 198–216. ISBN: 9780297760429.
 
@@ -280,10 +280,10 @@ Put Me Through to Washington: Communicating Science to Policymakers
 {{< tdopen >}}
 
 
-NASA Moonshot Memo after Sputnik \[NASA Van Braun memo\] (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mitsts_034f11_ses_12))  
+NASA Moonshot Memo after Sputnik \[NASA Van Braun memo\] ([PDF - 1.9MB]({{< baseurl >}}/resources/mitsts_034f11_ses_12))  
 Nisbet, Matthew, and Chris Mooney. "Framing Science." _Science_ 316, no. 5821 (2007): 56.
 
-Executive Summary of Report to President Obama on K–12 Science Technology Mathematics and Engineering Education. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/pcast-stemed-execsum.pdf))
+Executive Summary of Report to President Obama on K–12 Science Technology Mathematics and Engineering Education. ([PDF](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/pcast-stemed-execsum.pdf))
 
 Policy Issue analysis for web audience: Pool, Sean, Matt Woelfel, et al. "[Climate Change Could Create New Risks to Nuclear Safety](http://www.scienceprogress.org/2011/03/climate-change-could-create-new-risks-to-u-s-nuclear-reactor-safety/)." _Science Progress_ (2011).
 
